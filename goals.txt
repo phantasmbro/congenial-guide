@@ -1,0 +1,3 @@
+----Project Goals----
+- Modern UI
+- All white, black background
