@@ -1,0 +1,4 @@
+----Project Goals----
+- Modern UI
+- All white, black background
+- Weather, Time, News
